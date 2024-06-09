@@ -9,4 +9,3 @@ This project aims to predict loan defaults using historical data from the Lendin
 #### Dataset Link 3. https://drive.google.com/file/d/1SLI0JUqtuS2X6TvyMAyyKNfVffjVzrKg/view?usp=sharing
 
 #### Project Demonstration Link - https://drive.google.com/file/d/1Oo9GbcF5_rLjRHyC_Bi69XdxtDfK_d0J/view?usp=sharing
-
